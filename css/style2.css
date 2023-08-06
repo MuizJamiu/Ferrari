@@ -21,17 +21,6 @@ color: white;
 .navlist a:hover {
     color: aquamarine;
 }
-.showcase {
-    background-image: url(../img/bg.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
-    height: 750px;
-    min-width: 1280px;
-}
-.showcase h3 {
-    padding-left: 25%;
-    padding-top: 40px;
-    text-transform: capitalize;
-    font-size: 40px;
-    color: white;
+.container {
+    display: flex;
 }
