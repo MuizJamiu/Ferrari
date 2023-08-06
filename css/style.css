@@ -22,11 +22,16 @@
 color: white;
 }
 .showcase {
-    background-image: url();
+    background-image: url(../img/bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 750px;
+    min-width: 1280px;
 }
 .showcase h3 {
-    margin-left: 30%;
-    margin-top: 40px;
+    padding-left: 25%;
+    padding-top: 40px;
     text-transform: capitalize;
     font-size: 40px;
+    color: white;
 }
