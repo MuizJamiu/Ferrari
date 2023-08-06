@@ -18,9 +18,17 @@
 .navlist a {
 color: white;
 } 
-.navlist a:hover {
-    color: aquamarine;
-}
 .container {
     display: flex;
+    justify-content:space-between ;
+    padding: 30px; 
+    background-color: gray;
+    height: 750px;
+}
+.container a {
+    color: black;
+    font-size: 100px;
+}
+a:hover {
+    color: aquamarine;
 }
